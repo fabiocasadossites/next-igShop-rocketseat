@@ -4,9 +4,6 @@
 
 Neste projeto, desenvolvi uma loja virtual integrada com stripe.
 
-### Veja o projeto online
-
-🚀 [Link do projeto online](https://blog-github-gamma.vercel.app/)
 
 ### Tecnologias Utilizadas
 
